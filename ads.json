@@ -1,1 +1,19 @@
-{}
+{
+    "sample": {
+        "projectName": "sample",
+        "description": "gdftg",
+        "type": "community",
+        "author": "ytumushimire",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/ytumushimire/agama_test",
+        "githubUri": "https://github.com/ytumushimire/agama_test",
+        "license": "apache-2.0",
+        "lastUpdated": "1739886054277",
+        "tags": [
+            "openid-connect",
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
