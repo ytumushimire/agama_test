@@ -14,7 +14,9 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {},
+        "configs": {
+            "ai.biometric_auth.Reauth": {}
+        },
         "name": "sample"
     }
 }
