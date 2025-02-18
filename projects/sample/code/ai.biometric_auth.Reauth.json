@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-421e80b1-c09f-4aa9-b027-05997cb1e4bc",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "deletable": false,
+      "data": {
+        "id": "startNode-421e80b1-c09f-4aa9-b027-05997cb1e4bc",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "ai.biometric_auth.Reauth",
+          "displayName": "reauth",
+          "creationDate": "18/02/2025",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
